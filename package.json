@@ -10,6 +10,10 @@
     "middy",
     "maintenance"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fschaeffler/middy-maintenance-mode.git"
+  },
   "author": {
     "name": "Florian Schaeffler",
     "email": "git@schf.de"
