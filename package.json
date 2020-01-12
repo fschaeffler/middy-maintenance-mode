@@ -1,6 +1,6 @@
 {
   "name": "middy-maintenance-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middy Plugin for Maintenance Mode",
   "engines": {
     "node": ">=10"

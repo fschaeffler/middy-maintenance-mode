@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-const maintenanceMode  = require('middy-maintenance-mode')
+const maintenanceMode = require('middy-maintenance-mode')
 middy(handler).use(maintenanceMode())
 ```
 
